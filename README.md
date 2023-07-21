@@ -64,8 +64,8 @@ The project follows a standard folder structure:
 warehouse-management/
   ├── public/
   ├── src/
-  │   ├── components/
-  │   ├── redux/
+  │   ├── components/├──all components
+  │   ├── store/
   │   ├── App.jsx
   │   ├── index.js
   │   └── ...
